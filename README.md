@@ -19,13 +19,56 @@ This pack does not cover weapon slot 1 skills such as auto-attack chains nor mor
 
 ## Full List of Supported Skills
 
-- **Guardian**: torch 4, greatsword 5, focus 5
-- **Revenant**: greatsword 4
-- **Warrior**: staff 5 **\***
-- **Ranger**: greatsword 4
-- **Thief**: sword 2, sword/dagger 3, scepter/pistol 3, spear 4 (underwater)
-- **Engineer**: shield 4 **\***, shield 5 **\***, spear 3
-- **Mesmer**: sword 4, scepter 2, shield 4
-- **Necromancer**: warhorn 5, spear 4
+### Guardian
+
+- **Weapon**: Torch 4, Greatsword 5, Focus 5
+- **Heal**: Litany of Wrath, Resolute Stance
+
+### Revenant
+
+- **Weapon**: Greatsword 4
+- **Heal**: Enchantend Daggers, Infuse Light
+- **Elite**: Rite of the Great Dwarf
+
+### Warrior
+
+- **Weapon**: Staff 5 **\***
+- **Heal**: Defiant Stance, Blood Reckoning, Combat Stimulant
+- **Elite**: Rampage, Tactical Reload, We Will Never Yield
+
+### Ranger
+
+- **Weapon**: Greatsword 4
+- **Heal**: Troll Unguent, Bear Stance, Perilous Gift
+- **Elite**: One Wolf Pack, Forest's Fortification
+
+### Thief
+
+- **Weapon**: Sword 2, Sword/Dagger 3, Scepter/Pistol 3, Spear 4 (underwater)
+- **Heal**: Skelk Venom
+- **Elite**: Basilisk Venom
+
+### Engineer
+
+- **Weapon**: Shield 4 **\***, Shield 5 **\***, Spear 3
+- **Heal**: A.E.D., Coolant Blast
+- **Elite**: Elixir X
+
+### Elementalist
+
+- **Heal**: Aquatic Stance
+- **Elite**: Tornado/Whirlpool, Glyph of Elementals, Rebound, Weave Self
+
+### Mesmer
+
+- **Weapon**: Sword 4, Scepter 2, Shield 4
+- **Heal**: False Oasis, Tale of the Second Scion
+
+
+### Necromancer
+
+- **Weapon**: Warhorn 5, Spear 4
+- **Heal**: Resilient Weapon
+- **Elite**: Lich Form, Xinrae's Weapon
 
 **\*** these effects have odd or missing durations, so the timing of the bar is not fully accurate
