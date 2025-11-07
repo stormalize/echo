@@ -15,6 +15,8 @@ This pack does not cover weapon slot 1 skills such as auto-attack chains nor mor
 
 ## Preview
 
+![greatsword 4 channeled block on revenant](/_preview/echo-preview.png)
+
 ## Full List of Supported Skills
 
 - **Guardian**: torch 4, greatsword 5, focus 5
