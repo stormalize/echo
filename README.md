@@ -6,9 +6,9 @@ Simple indicators of followup skills and lingering ability effects for weapon/he
 
 **Note** that this pack is designed to fit into native UI elements and has been designed for the "Larger" UI size setting. Reffect offers a resize feature for packs that may help fitting it to the other UI sizes.
 
-Zip archive is available under Releases.
+Pack JSON file is available under Releases.
 
-This pack does not cover weapon slot 1 skills such as auto-attack chains nor more complex weapon mechanics such as Guardian Illuminated spear skills. For those please see:
+This pack does not cover weapon slot 1 skills such as auto-attack chains nor more complex weapon mechanics (example: Guardian Illuminated spear skills). For those please see:
 
 - Auto-attack/stealth attacks: https://github.com/stormalize/tempo
 - Weapon mechanics: https://github.com/stormalize/enlightened-armory
