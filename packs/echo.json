@@ -7,7 +7,7 @@
   },
   "pos": [
     0.0,
-    -97.0
+    0.0
   ],
   "opacity": 1.0,
   "trigger": {
@@ -44,7 +44,7 @@
       "anchor": "Parent",
       "pos": [
         0.0,
-        0.0
+        -97.0
       ],
       "opacity": 1.0,
       "trigger": {
@@ -2732,7 +2732,7 @@
       "anchor": "Parent",
       "pos": [
         63.0,
-        0.0
+        -97.0
       ],
       "opacity": 1.0,
       "trigger": {
@@ -5136,7 +5136,7 @@
       "anchor": "Parent",
       "pos": [
         331.0,
-        0.0
+        -97.0
       ],
       "opacity": 1.0,
       "trigger": {
