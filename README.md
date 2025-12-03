@@ -15,7 +15,7 @@ This pack does not cover weapon slot 1 skills such as auto-attack chains nor mor
 
 ## Preview
 
-![greatsword 4 channeled block on revenant](/_preview/echo-preview.png)
+![greatsword 4 channeled block on revenant](/_preview/echo-preview-0.1.0.png)
 
 ## Full List of Supported Skills
 
