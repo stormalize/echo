@@ -51,7 +51,7 @@ This pack does not cover weapon slot 1 skills such as auto-attack chains nor mor
 ### Engineer
 
 - **Weapon**: Shield 4 **\***, Shield 5 **\***, Spear 3
-- **Heal**: A.E.D., Coolant Blast
+- **Heal**: A.E.D., Coolant Blast, Mitotic State
 - **Elite**: Elixir X
 
 ### Elementalist
