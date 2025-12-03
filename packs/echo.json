@@ -46,7 +46,7 @@
       "anchor": "Parent",
       "pos": [
         0.0,
-        -97.0
+        -99.0
       ],
       "opacity": 1.0,
       "trigger": {
@@ -224,7 +224,7 @@
                   "conditions": [],
                   "size": [
                     65.0,
-                    6.0
+                    10.0
                   ],
                   "align": "Right",
                   "direction": "Right",
@@ -341,7 +341,7 @@
                   "conditions": [],
                   "size": [
                     65.0,
-                    6.0
+                    10.0
                   ],
                   "align": "Right",
                   "direction": "Right",
@@ -354,7 +354,7 @@
                   "anchor": "Parent",
                   "pos": [
                     4.0,
-                    14.0
+                    17.0
                   ],
                   "opacity": 1.0,
                   "trigger": {
@@ -383,7 +383,7 @@
                   "animation": null,
                   "type": "Text",
                   "text": "%i",
-                  "font": "TREBUCHET_L",
+                  "font": "TREBUCHET_XL",
                   "align": "Left",
                   "scale": 1.0,
                   "color": [
@@ -505,7 +505,7 @@
                   "conditions": [],
                   "size": [
                     65.0,
-                    6.0
+                    10.0
                   ],
                   "align": "Right",
                   "direction": "Right",
@@ -518,7 +518,7 @@
                   "anchor": "Parent",
                   "pos": [
                     4.0,
-                    14.0
+                    17.0
                   ],
                   "opacity": 1.0,
                   "trigger": {
@@ -547,7 +547,7 @@
                   "animation": null,
                   "type": "Text",
                   "text": "%i",
-                  "font": "TREBUCHET_L",
+                  "font": "TREBUCHET_XL",
                   "align": "Left",
                   "scale": 1.0,
                   "color": [
@@ -712,7 +712,7 @@
                   "conditions": [],
                   "size": [
                     65.0,
-                    6.0
+                    10.0
                   ],
                   "align": "Right",
                   "direction": "Right",
@@ -725,7 +725,7 @@
                   "anchor": "Parent",
                   "pos": [
                     4.0,
-                    14.0
+                    17.0
                   ],
                   "opacity": 1.0,
                   "trigger": {
@@ -754,7 +754,7 @@
                   "animation": null,
                   "type": "Text",
                   "text": "%i",
-                  "font": "TREBUCHET_L",
+                  "font": "TREBUCHET_XL",
                   "align": "Left",
                   "scale": 1.0,
                   "color": [
@@ -876,7 +876,7 @@
                   "conditions": [],
                   "size": [
                     65.0,
-                    6.0
+                    10.0
                   ],
                   "align": "Right",
                   "direction": "Right",
@@ -1036,7 +1036,7 @@
                   "conditions": [],
                   "size": [
                     65.0,
-                    6.0
+                    10.0
                   ],
                   "align": "Right",
                   "direction": "Right",
@@ -1049,7 +1049,7 @@
                   "anchor": "Parent",
                   "pos": [
                     4.0,
-                    14.0
+                    17.0
                   ],
                   "opacity": 1.0,
                   "trigger": {
@@ -1078,7 +1078,7 @@
                   "animation": null,
                   "type": "Text",
                   "text": "%i",
-                  "font": "TREBUCHET_L",
+                  "font": "TREBUCHET_XL",
                   "align": "Left",
                   "scale": 1.0,
                   "color": [
@@ -1243,7 +1243,7 @@
                   "conditions": [],
                   "size": [
                     65.0,
-                    6.0
+                    10.0
                   ],
                   "align": "Right",
                   "direction": "Right",
@@ -1403,7 +1403,7 @@
                   "conditions": [],
                   "size": [
                     65.0,
-                    6.0
+                    10.0
                   ],
                   "align": "Right",
                   "direction": "Right",
@@ -1520,7 +1520,7 @@
                   "conditions": [],
                   "size": [
                     65.0,
-                    6.0
+                    10.0
                   ],
                   "align": "Right",
                   "direction": "Right",
@@ -1637,7 +1637,7 @@
                   "conditions": [],
                   "size": [
                     65.0,
-                    6.0
+                    10.0
                   ],
                   "align": "Right",
                   "direction": "Right",
@@ -1752,7 +1752,7 @@
                   "conditions": [],
                   "size": [
                     65.0,
-                    6.0
+                    10.0
                   ],
                   "align": "Right",
                   "direction": "Right",
@@ -1912,7 +1912,7 @@
                   "conditions": [],
                   "size": [
                     65.0,
-                    6.0
+                    10.0
                   ],
                   "align": "Right",
                   "direction": "Right",
@@ -2029,7 +2029,7 @@
                   "conditions": [],
                   "size": [
                     65.0,
-                    6.0
+                    10.0
                   ],
                   "align": "Right",
                   "direction": "Right",
@@ -2146,7 +2146,7 @@
                   "conditions": [],
                   "size": [
                     65.0,
-                    6.0
+                    10.0
                   ],
                   "align": "Right",
                   "direction": "Right",
@@ -2306,7 +2306,7 @@
                   "conditions": [],
                   "size": [
                     65.0,
-                    6.0
+                    10.0
                   ],
                   "align": "Right",
                   "direction": "Right",
@@ -2423,7 +2423,7 @@
                   "conditions": [],
                   "size": [
                     65.0,
-                    6.0
+                    10.0
                   ],
                   "align": "Right",
                   "direction": "Right",
@@ -2540,7 +2540,7 @@
                   "conditions": [],
                   "size": [
                     65.0,
-                    6.0
+                    10.0
                   ],
                   "align": "Right",
                   "direction": "Right",
@@ -2700,7 +2700,7 @@
                   "conditions": [],
                   "size": [
                     65.0,
-                    6.0
+                    10.0
                   ],
                   "align": "Right",
                   "direction": "Right",
@@ -2817,7 +2817,7 @@
                   "conditions": [],
                   "size": [
                     65.0,
-                    6.0
+                    10.0
                   ],
                   "align": "Right",
                   "direction": "Right",
@@ -2836,7 +2836,7 @@
       "anchor": "Parent",
       "pos": [
         63.0,
-        -97.0
+        -99.0
       ],
       "opacity": 1.0,
       "trigger": {
@@ -3012,7 +3012,7 @@
                   "conditions": [],
                   "size": [
                     65.0,
-                    6.0
+                    10.0
                   ],
                   "align": "Right",
                   "direction": "Right",
@@ -3129,7 +3129,7 @@
                   "conditions": [],
                   "size": [
                     65.0,
-                    6.0
+                    10.0
                   ],
                   "align": "Right",
                   "direction": "Right",
@@ -3287,7 +3287,7 @@
                   "conditions": [],
                   "size": [
                     65.0,
-                    6.0
+                    10.0
                   ],
                   "align": "Right",
                   "direction": "Right",
@@ -3300,7 +3300,7 @@
                   "anchor": "Parent",
                   "pos": [
                     4.0,
-                    14.0
+                    17.0
                   ],
                   "opacity": 1.0,
                   "trigger": {
@@ -3329,7 +3329,7 @@
                   "animation": null,
                   "type": "Text",
                   "text": "%i",
-                  "font": "TREBUCHET_L",
+                  "font": "TREBUCHET_XL",
                   "align": "Left",
                   "scale": 1.0,
                   "color": [
@@ -3451,7 +3451,7 @@
                   "conditions": [],
                   "size": [
                     65.0,
-                    6.0
+                    10.0
                   ],
                   "align": "Right",
                   "direction": "Right",
@@ -3609,7 +3609,7 @@
                   "conditions": [],
                   "size": [
                     65.0,
-                    6.0
+                    10.0
                   ],
                   "align": "Right",
                   "direction": "Right",
@@ -3726,7 +3726,7 @@
                   "conditions": [],
                   "size": [
                     65.0,
-                    6.0
+                    10.0
                   ],
                   "align": "Right",
                   "direction": "Right",
@@ -3843,7 +3843,7 @@
                   "conditions": [],
                   "size": [
                     65.0,
-                    6.0
+                    10.0
                   ],
                   "align": "Right",
                   "direction": "Right",
@@ -4001,7 +4001,7 @@
                   "conditions": [],
                   "size": [
                     65.0,
-                    6.0
+                    10.0
                   ],
                   "align": "Right",
                   "direction": "Right",
@@ -4118,7 +4118,7 @@
                   "conditions": [],
                   "size": [
                     65.0,
-                    6.0
+                    10.0
                   ],
                   "align": "Right",
                   "direction": "Right",
@@ -4235,7 +4235,7 @@
                   "conditions": [],
                   "size": [
                     65.0,
-                    6.0
+                    10.0
                   ],
                   "align": "Right",
                   "direction": "Right",
@@ -4393,7 +4393,7 @@
                   "conditions": [],
                   "size": [
                     65.0,
-                    6.0
+                    10.0
                   ],
                   "align": "Right",
                   "direction": "Right",
@@ -4406,7 +4406,7 @@
                   "anchor": "Parent",
                   "pos": [
                     4.0,
-                    14.0
+                    17.0
                   ],
                   "opacity": 1.0,
                   "trigger": {
@@ -4435,7 +4435,7 @@
                   "animation": null,
                   "type": "Text",
                   "text": "%i",
-                  "font": "TREBUCHET_L",
+                  "font": "TREBUCHET_XL",
                   "align": "Left",
                   "scale": 1.0,
                   "color": [
@@ -4598,7 +4598,7 @@
                   "conditions": [],
                   "size": [
                     65.0,
-                    6.0
+                    10.0
                   ],
                   "align": "Right",
                   "direction": "Right",
@@ -4715,7 +4715,7 @@
                   "conditions": [],
                   "size": [
                     65.0,
-                    6.0
+                    10.0
                   ],
                   "align": "Right",
                   "direction": "Right",
@@ -4832,7 +4832,7 @@
                   "conditions": [],
                   "size": [
                     65.0,
-                    6.0
+                    10.0
                   ],
                   "align": "Right",
                   "direction": "Right",
@@ -4992,7 +4992,7 @@
                   "conditions": [],
                   "size": [
                     65.0,
-                    6.0
+                    10.0
                   ],
                   "align": "Right",
                   "direction": "Right",
@@ -5152,7 +5152,7 @@
                   "conditions": [],
                   "size": [
                     65.0,
-                    6.0
+                    10.0
                   ],
                   "align": "Right",
                   "direction": "Right",
@@ -5269,7 +5269,7 @@
                   "conditions": [],
                   "size": [
                     65.0,
-                    6.0
+                    10.0
                   ],
                   "align": "Right",
                   "direction": "Right",
@@ -5430,7 +5430,7 @@
                   "conditions": [],
                   "size": [
                     65.0,
-                    6.0
+                    10.0
                   ],
                   "align": "Right",
                   "direction": "Right",
@@ -5449,7 +5449,7 @@
       "anchor": "Parent",
       "pos": [
         331.0,
-        -97.0
+        -99.0
       ],
       "opacity": 1.0,
       "trigger": {
@@ -5626,7 +5626,7 @@
                   "conditions": [],
                   "size": [
                     65.0,
-                    6.0
+                    10.0
                   ],
                   "align": "Right",
                   "direction": "Right",
@@ -5785,7 +5785,7 @@
                   "conditions": [],
                   "size": [
                     65.0,
-                    6.0
+                    10.0
                   ],
                   "align": "Right",
                   "direction": "Right",
@@ -5902,7 +5902,7 @@
                   "conditions": [],
                   "size": [
                     65.0,
-                    6.0
+                    10.0
                   ],
                   "align": "Right",
                   "direction": "Right",
@@ -6019,7 +6019,7 @@
                   "conditions": [],
                   "size": [
                     65.0,
-                    6.0
+                    10.0
                   ],
                   "align": "Right",
                   "direction": "Right",
@@ -6177,7 +6177,7 @@
                   "conditions": [],
                   "size": [
                     65.0,
-                    6.0
+                    10.0
                   ],
                   "align": "Right",
                   "direction": "Right",
@@ -6294,7 +6294,7 @@
                   "conditions": [],
                   "size": [
                     65.0,
-                    6.0
+                    10.0
                   ],
                   "align": "Right",
                   "direction": "Right",
@@ -6411,7 +6411,7 @@
                   "conditions": [],
                   "size": [
                     65.0,
-                    6.0
+                    10.0
                   ],
                   "align": "Right",
                   "direction": "Right",
@@ -6569,7 +6569,7 @@
                   "conditions": [],
                   "size": [
                     65.0,
-                    6.0
+                    10.0
                   ],
                   "align": "Right",
                   "direction": "Right",
@@ -6733,7 +6733,7 @@
                   "conditions": [],
                   "size": [
                     65.0,
-                    6.0
+                    10.0
                   ],
                   "align": "Right",
                   "direction": "Right",
@@ -6892,7 +6892,7 @@
                   "conditions": [],
                   "size": [
                     65.0,
-                    6.0
+                    10.0
                   ],
                   "align": "Right",
                   "direction": "Right",
@@ -7010,7 +7010,7 @@
                   "conditions": [],
                   "size": [
                     65.0,
-                    6.0
+                    10.0
                   ],
                   "align": "Right",
                   "direction": "Right",
@@ -7127,7 +7127,7 @@
                   "conditions": [],
                   "size": [
                     65.0,
-                    6.0
+                    10.0
                   ],
                   "align": "Right",
                   "direction": "Right",
@@ -7245,7 +7245,7 @@
                   "conditions": [],
                   "size": [
                     65.0,
-                    6.0
+                    10.0
                   ],
                   "align": "Right",
                   "direction": "Right",
@@ -7404,7 +7404,7 @@
                   "conditions": [],
                   "size": [
                     65.0,
-                    6.0
+                    10.0
                   ],
                   "align": "Right",
                   "direction": "Right",
@@ -7522,7 +7522,7 @@
                   "conditions": [],
                   "size": [
                     65.0,
-                    6.0
+                    10.0
                   ],
                   "align": "Right",
                   "direction": "Right",
