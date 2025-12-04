@@ -70,5 +70,6 @@ This pack does not cover weapon slot 1 skills such as auto-attack chains nor mor
 - **Weapon**: Warhorn 5, Spear 4
 - **Heal**: Resilient Weapon
 - **Elite**: Lich Form, Xinrae's Weapon
+- **Transform**: Reaper Shroud 3
 
 **\*** these effects have odd or missing durations, so the timing of the bar is not fully accurate
